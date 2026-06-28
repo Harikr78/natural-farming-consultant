@@ -1,0 +1,8 @@
+{
+  "name": "Natural Farming Consultant",
+  "description": "Voice-first natural farming consultant for organic remedies, seed advice, and multilevel crop strategies.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
